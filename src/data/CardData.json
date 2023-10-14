@@ -1,0 +1,38 @@
+[
+    {
+        "heading":"Commencement business",
+        "subheading":"Invested shareholders must confirm payment and office address ",
+        "cardRow":"Within 180 days",
+        "cardCol":"₹50,000 for the company"
+    },
+    {
+        "heading":"Auditor Appointment",
+        "subheading":"Company informs new auditor and submits ADT.1 form to ROC.",
+        "cardRow":"Within 30 days",
+        "cardCol":"₹300 per month."
+    },
+    {
+        "heading":"DIN eKYC",
+        "subheading":"Invested shareholders must confirm payment and office address ",
+        "cardRow":"Within 180 days",
+        "cardCol":"₹50,000 for the company"
+    },
+    {
+        "heading":"MCA Form AOC-4",
+        "subheading":"Invested shareholders must confirm payment and office address ",
+        "cardRow":"Within 180 days",
+        "cardCol":"₹50,000 for the company"
+    },
+    {
+       "heading":"MCA Form MGT-7",
+        "subheading":"Invested shareholders must confirm payment and office address ",
+        "cardRow":"Within 180 days",
+        "cardCol":"₹50,000 for the company"
+    },
+    {
+        "heading":"DPT-3",
+        "subheading":"Invested shareholders must confirm payment and office address ",
+        "cardRow":"Within 180 days",
+        "cardCol":"₹50,000 for the company"
+    }
+]
