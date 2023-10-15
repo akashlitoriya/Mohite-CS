@@ -1,6 +1,8 @@
 import React from 'react'
 import logo from '../data/logo.png'
+
 const Navbar = () => {
+  
   return (
     <div>
       <div className='lg:w-[1200px] h-14  mx-auto flex justify-between items-center'>

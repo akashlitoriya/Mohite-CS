@@ -8,6 +8,7 @@ export default {
         primary: "#0076CE",
         secondary: "#9400D3",
         heroSubheading: "#616161",
+        section:"#999999"
         
       }
     },
